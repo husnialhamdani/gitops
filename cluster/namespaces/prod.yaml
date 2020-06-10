@@ -3,5 +3,5 @@ kind: Namespace
 metadata:
   annotations:
     fluxcd.io/ignore: "false"
-    linkerd.io/inject: enabled
+    #linkerd.io/inject: enabled
   name: prod
