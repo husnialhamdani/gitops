@@ -20,7 +20,7 @@ spec:
       tag: 3.1.0
     service:
       enabled: true
-      type: ClusterIP
+      type: NodePort
     ingress:
       enabled: false
       annotations:
